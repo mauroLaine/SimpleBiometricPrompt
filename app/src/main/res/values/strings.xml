@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleBiometricPrompt</string>
+    <string name="identificatiom">Verify Identity</string>
 </resources>
